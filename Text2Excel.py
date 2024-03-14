@@ -40,4 +40,4 @@ excel_file_path = "Mac_Keyboard_Shortcuts.xlsx"
 parse_shortcuts_to_excel(input_text, excel_file_path)
 
 
-#test
+#test2
